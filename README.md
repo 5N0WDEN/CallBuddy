@@ -12,7 +12,8 @@ This project is currently under active development.
 
 This project is not production-ready yet. The backend foundation, architecture, and core communication flow have been designed and partially implemented. Active development is ongoing.
 
-![WhatsApp Image 2026-02-17 at 14 21 14](https://github.com/user-attachments/assets/37aabc76-e725-4131-b789-ec0f3e58e578)
+<img width="1097" height="611" alt="CallBuddy Architecture" src="https://github.com/user-attachments/assets/6414fc9e-12f0-448f-b69e-7215d2b20fc0" />
+
 
 ---
 
